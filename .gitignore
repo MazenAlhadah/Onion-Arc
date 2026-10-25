@@ -1,0 +1,25 @@
+
+# Build outputs
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+artifacts/
+
+# IDE files
+.vs/
+.idea/
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Logs and test results
+*.log
+TestResults/
